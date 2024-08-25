@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/image">
+        <file alias="jewelry.png">resource/image/jewelry.png</file>
+        <file alias="background/background1.png">resource/image/background/background1.png</file>
+        <file alias="background/flame1.png">resource/image/background/flame1.png</file>
+        <file alias="background/flame2.png">resource/image/background/flame2.png</file>
+        <file alias="background/moon.png">resource/image/background/moon.png</file>
+        <file alias="background/star.png">resource/image/background/star.png</file>
+        <file alias="font/digit.png">resource/image/font/digit.png</file>
+        <file alias="font/letter.png">resource/image/font/letter.png</file>
+        <file alias="background/background2.png">resource/image/background/background2.png</file>
+        <file alias="background/background3.png">resource/image/background/background3.png</file>
+        <file alias="background/background4.png">resource/image/background/background4.png</file>
+        <file alias="background/background5.png">resource/image/background/background5.png</file>
+        <file alias="background/background6.png">resource/image/background/background6.png</file>
+        <file alias="background/background7.png">resource/image/background/background7.png</file>
+        <file alias="background/background8.png">resource/image/background/background8.png</file>
+    </qresource>
+    <qresource prefix="/audio">
+        <file alias="bgm/bgm1.mp3">resource/audio/bgm/bgm1.mp3</file>
+        <file alias="bgm/bgm2.mp3">resource/audio/bgm/bgm2.mp3</file>
+        <file alias="bgm/bgm3.mp3">resource/audio/bgm/bgm3.mp3</file>
+        <file alias="bgm/bgm4.mp3">resource/audio/bgm/bgm4.mp3</file>
+        <file alias="bgm/bgm5.mp3">resource/audio/bgm/bgm5.mp3</file>
+        <file alias="bgm/bgm6.mp3">resource/audio/bgm/bgm6.mp3</file>
+        <file alias="bgm/bgm7.mp3">resource/audio/bgm/bgm7.mp3</file>
+        <file alias="bgm/bgm8.mp3">resource/audio/bgm/bgm8.mp3</file>
+        <file alias="drop.mp3">resource/audio/drop.mp3</file>
+        <file alias="score.mp3">resource/audio/score.mp3</file>
+        <file alias="wrong.mp3">resource/audio/wrong.mp3</file>
+    </qresource>
+</RCC>
